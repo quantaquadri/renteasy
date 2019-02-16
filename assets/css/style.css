@@ -2643,7 +2643,7 @@ body.modal-open {
 
 .modal {
 	z-index: 1080;
-	background: rgba(34, 34, 34, 0.5);
+	background: rgba(34, 34, 34, 0.95);
 }
 .modal::-webkit-scrollbar {
  display: none;
@@ -6087,7 +6087,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 
 .property-single-gallery-info .property--price {
 	font-size: 36px;
-	color: #64ddbb;
+	color: #F0114C;
 }
 
 .property-single-gallery-info .property--meta {
